@@ -1,0 +1,18 @@
+/* breahpoint for medium*/
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+#intro img{
+    height: ;
+}
+
+#phil{
+    background: linear-gradient(blue, yellow);
+}
+#instructors img{
+    width: 100;
+}
+
